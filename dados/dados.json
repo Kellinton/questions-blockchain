@@ -1,0 +1,262 @@
+[
+    {
+        "id": "1",
+        "pergunta": "O que é uma blockchain?",
+        "respostas": [
+            "Uma base de dados tradicional",
+            "Um tipo de criptomoeda",
+            "Um livro-razão digital descentralizado",
+            "Um algoritmo de compressão de dados",
+            "Um serviço de armazenamento em nuvem"
+        ],
+        "resposta_correta": "Um livro-razão digital descentralizado",
+        "nivel": "Fácil"
+    },
+    {
+        "id": "2",
+        "pergunta": "Qual é a principal característica que distingue a blockchain de outros tipos de bancos de dados?",
+        "respostas": [
+            "Armazenamento em nuvem",
+            "Centralização",
+            "Descentralização e imutabilidade",
+            "Processamento de gráficos",
+            "Arquivos compactados"
+        ],
+        "resposta_correta": "Descentralização e imutabilidade",
+        "nivel": "Fácil"
+    },
+    {
+        "id": "3",
+        "pergunta": "O que é um bloco em uma blockchain?",
+        "respostas": [
+            "Um pedaço de código de programa",
+            "Uma transação individual",
+            "Um conjunto de transações registradas",
+            "Uma criptomoeda específica",
+            "Uma chave criptográfica"
+        ],
+        "resposta_correta": "Um conjunto de transações registradas",
+        "nivel": "Fácil"
+    },
+    {
+        "id": "4",
+        "pergunta": "Qual é a função de um hash em uma blockchain?",
+        "respostas": [
+            "Enviar mensagens criptografadas",
+            "Identificar e validar transações",
+            "Minerar novas criptomoedas",
+            "Armazenar dados temporários",
+            "Compactar arquivos de dados"
+        ],
+        "resposta_correta": "Identificar e validar transações",
+        "nivel": "Fácil"
+    },
+    {
+        "id": "5",
+        "pergunta": "O que é uma rede descentralizada em blockchain?",
+        "respostas": [
+            "Uma rede com um servidor central",
+            "Uma rede onde todos os nós têm controle total",
+            "Uma rede com múltiplos pontos de controle, sem servidor central",
+            "Uma rede que não usa criptografia",
+            "Uma rede que usa um único computador"
+        ],
+        "resposta_correta": "Uma rede com múltiplos pontos de controle, sem servidor central",
+        "nivel": "Fácil"
+    },
+    {
+        "id": "6",
+        "pergunta": "Qual é a função dos mineradores em uma blockchain?",
+        "respostas": [
+            "Armazenar dados em servidores",
+            "Processar transações e validar blocos",
+            "Desenvolver novos algoritmos de hash",
+            "Controlar a rede centralmente",
+            "Desenvolver novos aplicativos de blockchain"
+        ],
+        "resposta_correta": "Processar transações e validar blocos",
+        "nivel": "Médio"
+    },
+    {
+        "id": "7",
+        "pergunta": "O que é um contrato inteligente (smart contract)?",
+        "respostas": [
+            "Um contrato físico assinado digitalmente",
+            "Um programa que executa automaticamente termos acordados",
+            "Um tipo de criptomoeda",
+            "Um tipo de transação bancária",
+            "Um registro de propriedade digital"
+        ],
+        "resposta_correta": "Um programa que executa automaticamente termos acordados",
+        "nivel": "Médio"
+    },
+    {
+        "id": "8",
+        "pergunta": "Qual criptomoeda foi a primeira a utilizar a tecnologia blockchain?",
+        "respostas": [
+            "Ethereum",
+            "Bitcoin",
+            "Ripple",
+            "Litecoin",
+            "Dogecoin"
+        ],
+        "resposta_correta": "Bitcoin",
+        "nivel": "Fácil"
+    },
+    {
+        "id": "9",
+        "pergunta": "O que é uma carteira digital (digital wallet) em blockchain?",
+        "respostas": [
+            "Um aplicativo para enviar mensagens",
+            "Um software para gerenciar chaves criptográficas e transações",
+            "Uma plataforma para compra e venda de criptomoedas",
+            "Um banco físico que lida com criptomoedas",
+            "Um tipo de hardware para minerar criptomoedas"
+        ],
+        "resposta_correta": "Um software para gerenciar chaves criptográficas e transações",
+        "nivel": "Médio"
+    },
+    {
+        "id": "10",
+        "pergunta": "O que é mineração de criptomoedas?",
+        "respostas": [
+            "A compra de criptomoedas em exchanges",
+            "A criação e validação de novos blocos na blockchain",
+            "O desenvolvimento de novos algoritmos de criptografia",
+            "A transferência de criptomoedas entre carteiras",
+            "A emissão de novas moedas fiduciárias"
+        ],
+        "resposta_correta": "A criação e validação de novos blocos na blockchain",
+        "nivel": "Médio"
+    },
+    {
+        "id": "11",
+        "pergunta": "Qual é o principal benefício da descentralização em uma blockchain?",
+        "respostas": [
+            "Reduzir a velocidade das transações",
+            "Aumentar o controle centralizado",
+            "Eliminar a necessidade de intermediários",
+            "Aumentar os custos de transação",
+            "Garantir a privacidade completa"
+        ],
+        "resposta_correta": "Eliminar a necessidade de intermediários",
+        "nivel": "Médio"
+    },
+    {
+        "id": "12",
+        "pergunta": "Qual é a função dos nós (nodes) em uma rede blockchain?",
+        "respostas": [
+            "Armazenar e verificar transações",
+            "Controlar a criação de novas criptomoedas",
+            "Gerar novas chaves criptográficas",
+            "Desenvolver contratos inteligentes",
+            "Recompensar mineradores"
+        ],
+        "resposta_correta": "Armazenar e verificar transações",
+        "nivel": "Médio"
+    },
+    {
+        "id": "13",
+        "pergunta": "O que é um fork em uma blockchain?",
+        "respostas": [
+            "Uma alteração no código da blockchain que cria uma nova versão",
+            "Uma forma de criptografia usada para proteger dados",
+            "Um tipo de transação inválida",
+            "Um erro no processo de mineração",
+            "Uma nova criptomoeda criada pela equipe de desenvolvimento"
+        ],
+        "resposta_correta": "Uma alteração no código da blockchain que cria uma nova versão",
+        "nivel": "Difícil"
+    },
+    {
+        "id": "14",
+        "pergunta": "Qual é a função de uma chave pública em uma transação blockchain?",
+        "respostas": [
+            "Criptografar dados para garantir a privacidade",
+            "Descriptografar dados para acesso público",
+            "Assinar transações e garantir autenticidade",
+            "Gerar novas moedas digitais",
+            "Verificar a validade de contratos inteligentes"
+        ],
+        "resposta_correta": "Assinar transações e garantir autenticidade",
+        "nivel": "Médio"
+    },
+    {
+        "id": "15",
+        "pergunta": "Como a blockchain garante a integridade dos dados?",
+        "respostas": [
+            "Usando criptografia simétrica",
+            "Mantendo um registro imutável e distribuído",
+            "Requerendo autenticação de dois fatores",
+            "Armazenando dados em servidores centralizados",
+            "Utilizando algoritmos de compressão de dados"
+        ],
+        "resposta_correta": "Mantendo um registro imutável e distribuído",
+        "nivel": "Difícil"
+    },
+    {
+        "id": "16",
+        "pergunta": "Qual é o propósito dos algoritmos de consenso em uma blockchain?",
+        "respostas": [
+            "Reduzir o tamanho dos blocos",
+            "Garantir que todos os nós concordem sobre o estado da blockchain",
+            "Proteger contra ataques de malware",
+            "Gerar novas criptomoedas",
+            "Manter o código-fonte da blockchain seguro"
+        ],
+        "resposta_correta": "Garantir que todos os nós concordem sobre o estado da blockchain",
+        "nivel": "Difícil"
+    },
+    {
+        "id": "17",
+        "pergunta": "O que é a prova de trabalho (Proof of Work) em uma blockchain?",
+        "respostas": [
+            "Um método de verificação de identidade",
+            "Um mecanismo de validação de transações e criação de blocos",
+            "Uma técnica de compressão de dados",
+            "Uma forma de garantir a privacidade dos usuários",
+            "Uma maneira de gerar novas criptomoedas sem mineração"
+        ],
+        "resposta_correta": "Um mecanismo de validação de transações e criação de blocos",
+        "nivel": "Difícil"
+    },
+    {
+        "id": "18",
+        "pergunta": "Qual é a principal vantagem da tecnologia blockchain para contratos inteligentes?",
+        "respostas": [
+            "Automatizar a execução de termos contratuais",
+            "Reduzir a quantidade de código necessário",
+            "Eliminar a necessidade de intermediários",
+            "Garantir a anonimidade completa",
+            "Armazenar contratos em servidores centralizados"
+        ],
+        "resposta_correta": "Automatizar a execução de termos contratuais",
+        "nivel": "Difícil"
+    },
+    {
+        "id": "19",
+        "pergunta": "Qual é a função dos tokens em uma blockchain?",
+        "respostas": [
+            "Representar valores ou ativos dentro da blockchain",
+            "Garantir a segurança do código da blockchain",
+            "Facilitar a criação de novos blocos",
+            "Armazenar dados pessoais dos usuários",
+            "Desenvolver novos contratos inteligentes"
+        ],
+        "resposta_correta": "Representar valores ou ativos dentro da blockchain",
+        "nivel": "Médio"
+    },
+    {
+        "id": "20",
+        "pergunta": "O que é um ataque de 51% em uma blockchain?",
+        "respostas": [
+            "Um ataque que compromete 51% dos nós da rede para controlar a blockchain",
+            "Um erro de software que afeta 51% das transações",
+            "Uma falha de segurança em 51% dos contratos inteligentes",
+            "Um problema de criptografia em 51% dos blocos",
+            "Uma violação que afeta 51% das carteiras digitais"
+        ],
+        "resposta_correta": "Um ataque que compromete 51% dos nós da rede para controlar a blockchain",
+        "nivel": "Difícil"
+    }
+]
