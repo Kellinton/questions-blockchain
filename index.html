@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Blockchain</title>
+     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="shortcut icon" href="./assets/images/blockchain.png" type="image/x-icon">
+</head>
+<body>
+    
+    <button class="btn" id="quiz-start-btn">Iniciar</button>
+
+    <form class="quiz hide" id="quiz-form">
+        <div id="quiz-container" > 
+            <div class="quiz__container-img">
+                <img src="./assets/images/blockchain.png" alt="Imagem do Quiz">
+            </div>
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <h3 class="quiz__question"><span class="quiz__number">1.</span> Pergunta </h3>
+                <h3 class="quiz__dificuldade"> </h3>
+            </div>
+            <div class="quiz__answers">
+                <div class="quiz__answer">
+                    <input type="radio" id="answer1" name="answer" data-correct="false" />
+                    <label for="answer1">Resposta 1</label>
+                </div>
+                <div class="quiz__answer">
+                    <input type="radio" id="answer2" name="answer" data-correct="true" />
+                    <label for="answer2">Resposta 2</label>
+                </div>
+                <div class="quiz__answer">
+                    <input type="radio" id="answer3" name="answer" data-correct="false" />
+                    <label for="answer3">Resposta 3</label>
+                </div>
+                <div class="quiz__answer">
+                    <input type="radio" id="answer4" name="answer" data-correct="false" />
+                    <label for="answer4">Resposta 4</label>
+                </div>
+                <div class="quiz__answer">
+                    <input type="radio" id="answer5" name="answer" data-correct="false" />
+                    <label for="answer5">Resposta 5</label>
+                </div>
+            </div> 
+        </div>
+        <div class="quiz__info">
+            <p class="quiz__time" id="quiz-timer">00:00</p>
+            <div class="button-group">
+                <button class="quiz__reset btn" id="quiz-restart-btn" data-type="warning" type="button">Reiniciar</button>
+                <button class="quiz__next btn" data-type="primary" type="button">Próximo</button>
+            </div>
+        </div>
+        <div>
+            <h3 id="quiz-result" class="hide" style="padding: 10px; background-color: #28323E; color: #FFF;"></h3>
+        </div>
+    </form>
+
+
+    <script src="./assets/script/script.js"></script>
+</body>
+</html>
